@@ -1,2 +1,2 @@
 # jenkins-sample
-My sample app to test out Jenkins
+Sample script to test jenkins running or not & to monitor website using jenkins 
